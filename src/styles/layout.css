@@ -20,6 +20,7 @@ body {
   font-weight: 600;
   line-height: 1.54;
   background-color: var(--light-background);
+  background-color: #ECC94B;
   color: var(--light-color);
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
