@@ -29,10 +29,10 @@ module.exports = {
         title: 'Blog',
         path: '/blog',
       },
-      {
-        title: 'Example',
-        path: '/example',
-      },
+      // {
+      //   title: 'Example',
+      //   path: '/example',
+      // },
     ],
   },
   plugins: [

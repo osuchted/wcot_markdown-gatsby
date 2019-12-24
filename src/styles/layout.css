@@ -311,6 +311,7 @@ footer {
   font-size: 1rem;
   text-align: center;
   margin-bottom: 50px;
+  background:green;
 
   @media (--phone) {
     display: flex;
