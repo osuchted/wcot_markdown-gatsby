@@ -15,7 +15,7 @@ module.exports = {
       src: '',
       alt: '',
     },
-    logoText: 'We Code on Tuesday::',
+    logoText: 'We Code on Tuesday ::',
     defaultTheme: 'light', // light or dark as default
     postsPerPage: 5,
     showMenuItems: 2,

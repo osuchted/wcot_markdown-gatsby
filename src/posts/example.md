@@ -1,9 +1,9 @@
 ---
-title: "Example"
-date: "2017-01-02"
+title: "React - Working with a JavaScript Framework"
+date: "2019-01-02"
 path: "/example"
-author: "Lorem Ipsum"
-excerpt: "Example Excerpt ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante."
+author: "wcot"
+excerpt: '"Hello, Excerpt friend?" That''s lame. Maybe I should give you a name...'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante.
