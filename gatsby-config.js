@@ -7,7 +7,7 @@ const postCSSMixins = require('postcss-mixins')
 
 module.exports = {
   siteMetadata: {
-    title: `Hello Friend`,
+    title: `We Code on Tuesday`,
     description: `A simple starter for Gatsby. That's it.`,
     copyrights: '',
     author: `@panr`,
@@ -15,19 +15,19 @@ module.exports = {
       src: '',
       alt: '',
     },
-    logoText: 'hello friend',
-    defaultTheme: 'dark',
+    logoText: 'We Code on Tuesday::',
+    defaultTheme: 'light', // light or dark as default
     postsPerPage: 5,
     showMenuItems: 2,
     menuMoreText: 'Show more',
     mainMenu: [
       {
-        title: 'About',
-        path: '/about',
+        title: 'Portfolio',
+        path: '/portfolio',
       },
       {
-        title: 'Showcase',
-        path: '/showcase',
+        title: 'Blog',
+        path: '/blog',
       },
       {
         title: 'Example',
@@ -114,7 +114,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-hello-friend`,
+        name: `wcot_markdown-gatsby`,
         short_name: `hello-friend`,
         start_url: `/`,
         background_color: `#292a2d`,
