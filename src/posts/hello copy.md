@@ -1,5 +1,5 @@
 ---
-title: "Gatsby - React but with a Front End"
+title: "Rails - Using the API switch to access JSON data"
 path: "/hello"
 date: "2019-12-17"
 # coverImage: "../images/hello.jpg"
